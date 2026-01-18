@@ -1,0 +1,11 @@
+# Macro file for incident 1 MeV electron and 3 um ice grain
+#
+/run/numberOfThreads 16
+/B2/det/setTargetThick 6.00 um
+/run/initialize
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/gun/energy 1000.0000 keV
+/run/beamOn 1000000

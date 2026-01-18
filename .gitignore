@@ -1,0 +1,12 @@
+.DS_Store
+
+*.asv
+*.autosave
+Monte_Carlo_Simulation/Data/Green_full.mat
+Monte_Carlo_Simulation/Data/Green_Function_First_Half.mat
+
+build/
+*.o
+*.exe
+cmake_install.cmake
+CMakeCache.txt
